@@ -1,5 +1,5 @@
 | NAME | CITY | STNAME | WEBADDR | OTSREGNM | OFFICES | SPECGRPN |
-| ------ | ------ | ------ | ------ | ------ | ------ | -----: | 
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | State Street Bank and Trust Company | Boston | Massachusetts | http://www.statestreet.com | Northeast | 1 | All Other Specialization  > 1 Billion |
 | AuburnBank | Auburn | Alabama | www.auburnbank.com | Southeast | 10 | Commercial Lending Specialization |
 | Robertson Banking Company | Demopolis | Alabama | www.robertsonbanking.com | Southeast | 6 | Commercial Lending Specialization |
@@ -5066,7 +5066,7 @@
 | CharterBank | West Point | Georgia | www.charterbank.net | Southeast | 17 | Commercial Lending Specialization |
 | Universal Bank | West Covina | California | www.universalbank.com | Western | 5 | Commercial Lending Specialization |
 | Belpre Savings Bank | Belpre | Ohio | www.belpresavingsbank.com | Central | 2 | Mortgage Lending Specialization |
-| E*TRADE Bank | Arlington | Virginia | www.etrade.com | Southeast | 2 | Mortgage Lending Specialization |
+| E\*TRADE Bank | Arlington | Virginia | www.etrade.com | Southeast | 2 | Mortgage Lending Specialization |
 | Sunshine State Bank | Plant City | Florida | www.sunshinestatefederal.com | Southeast | 5 | Other Specialized Lending < 1 Billion |
 | MetaBank | Storm Lake | Iowa | http://www.metabank.com | Western | 11 | All Other Specialization  > 1 Billion |
 | Glacier Bank | Kalispell | Montana | www.glacierbank.com | West | 122 | Commercial Lending Specialization |
