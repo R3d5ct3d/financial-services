@@ -1,6 +1,6 @@
 | NAME | CITY | STNAME | WEBADDR | OTSREGNM | OFFICES | SPECGRPN |
 | ------ | ------ | ------ | ------ | ------ | ------ | -----: | 
-| State Street Bank and Trust Company | Boston | Massachusetts | http://www.statestreet.com | Northeast | 1 | All Other Specialization  > 1 Billion |
+| State Street Bank and Trust Company | Boston | Massachusetts | http://www.statestreet.com | Northeast | 1 | All Other Specialization  \> 1 Billion |
 | AuburnBank | Auburn | Alabama | www.auburnbank.com | Southeast | 10 | Commercial Lending Specialization |
 | Robertson Banking Company | Demopolis | Alabama | www.robertsonbanking.com | Southeast | 6 | Commercial Lending Specialization |
 | Phenix-Girard Bank | Phenix City | Alabama | www.phenix-girard.com | Southeast | 4 | Commercial Lending Specialization |
@@ -130,10 +130,10 @@
 | Tompkins Trust Company | Ithaca | New York | http://www.tompkinstrust.com | Northeast | 14 | Commercial Lending Specialization |
 | Bank of Millbrook | Millbrook | New York | http://www.bankofmillbrook.com | Northeast | 4 | All Other Specialization  \< 1 Billion |
 | Amalgamated Bank | New York | New York | http://WWW.AMALGAMATEDBANK.COM | Northeast | 24 | Commercial Lending Specialization |
-| Deutsche Bank Trust Company Americas | New York | New York | http://WWW.DB.COM | Northeast | 4 | All Other Specialization  > 1 Billion |
+| Deutsche Bank Trust Company Americas | New York | New York | http://WWW.DB.COM | Northeast | 4 | All Other Specialization  \> 1 Billion |
 | JPMorgan Chase Bank, National Association | Columbus | Ohio | http://www.jpmorganchase.com | Central | 5712 | International Specialization |
 | The Bank of New York Mellon | New York | New York | www.bnymellon.com | Northeast | 9 | International Specialization |
-| Five Star Bank | Warsaw | New York | www.five-starbank.com | Northeast | 49 | All Other Specialization  > 1 Billion |
+| Five Star Bank | Warsaw | New York | www.five-starbank.com | Northeast | 49 | All Other Specialization  \> 1 Billion |
 | The Adirondack Trust Company | Saratoga Springs | New York | www.adirondacktrust.com | Northeast | 12 | Commercial Lending Specialization |
 | First Columbia Bank & Trust Co. | Bloomsburg | Pennsylvania | www.firstcolumbiabank.com | Northeast | 13 | All Other Specialization  \< 1 Billion |
 | Wayne Bank | Honesdale | Pennsylvania | www.waynebank.com | Northeast | 16 | Commercial Lending Specialization |
@@ -202,7 +202,7 @@
 | Clare Bank, National Association | Platteville | Wisconsin | www.clarebank.com | Central | 8 | All Other Specialization  \< 1 Billion |
 | Farmers Bank and Trust Company | Blytheville | Arkansas | www.fbtbly.com | Western | 9 | Commercial Lending Specialization |
 | FBT Bank & Mortgage | Fordyce | Arkansas | www.fbtbank.com | Western | 5 | All Other Specialization  \< 1 Billion |
-| The Bank of Edwardsville | Edwardsville | Illinois | http://WWW.4THEBANK.COM | Central | 18 | All Other Specialization  > 1 Billion |
+| The Bank of Edwardsville | Edwardsville | Illinois | http://WWW.4THEBANK.COM | Central | 18 | All Other Specialization  \> 1 Billion |
 | Midland States Bank | Effingham | Illinois | www.midlandsb.com | Central | 35 | Commercial Lending Specialization |
 | Bank & Trust Company | Litchfield | Illinois | www.banktr.com | Central | 7 | Commercial Lending Specialization |
 | First National Bank of Steeleville | Steeleville | Illinois | www.bankatfnb.com | Central | 3 | All Other Specialization  \< 1 Billion |
@@ -280,7 +280,7 @@
 | State Bank of Park Rapids | Park Rapids | Minnesota | www.statebankofparkrapids.com | West | 1 | Commercial Lending Specialization |
 | Kensington Bank | Kensington | Minnesota | http://www.kensingtonbanks.com | West | 4 | Agricultural  Specialization |
 | Farmers State Bank of Darwin | Darwin | Minnesota | www.fsbdarwin.com | West | 2 | Agricultural  Specialization |
-| KleinBank | Big Lake | Minnesota | www.kleinbank.com | West | 20 | All Other Specialization  > 1 Billion |
+| KleinBank | Big Lake | Minnesota | www.kleinbank.com | West | 20 | All Other Specialization  \> 1 Billion |
 | Northwoods Bank of Minnesota | Park Rapids | Minnesota | northwoodsbank.com | West | 5 | Commercial Lending Specialization |
 | Woodlands National Bank | Hinckley | Minnesota | www.woodlandsnationalbank.com | West | 7 | Commercial Lending Specialization |
 | Bank of Weston | Weston | Missouri | http://www.bankofweston.com | West | 4 | Commercial Lending Specialization |
@@ -309,7 +309,7 @@
 | Bank of McCrory | Mccrory | Arkansas | www.bofmc.com | Western | 1 | Agricultural  Specialization |
 | Diamond Bank | Murfreesboro | Arkansas | www.diamondbanking.com | Western | 12 | Agricultural  Specialization |
 | Southern Bancorp Bank | Arkadelphia | Arkansas | http://www.banksouthern.com | Western | 39 | Commercial Lending Specialization |
-| Bank of Stockton | Stockton | California | www.bankofstockton.com | Western | 16 | All Other Specialization  > 1 Billion |
+| Bank of Stockton | Stockton | California | www.bankofstockton.com | Western | 16 | All Other Specialization  \> 1 Billion |
 | First National Bank, Ames, Iowa | Ames | Iowa | http://www.FNBAmes.com | Western | 4 | Commercial Lending Specialization |
 | Iowa Trust and Savings Bank | Centerville | Iowa | WWW.ITSB-IOWA.COM | Western | 2 | Agricultural  Specialization |
 | Central State Bank | Elkader | Iowa | www.bankatcentral.com | Western | 8 | Commercial Lending Specialization |
@@ -563,7 +563,7 @@
 | The First National Bank of Las Animas | Las Animas | Colorado | http://www.fnblasanimas.com | Western | 6 | Agricultural  Specialization |
 | First Colorado National Bank | Paonia | Colorado | www.firstcoloradobank.com | Western | 2 | Commercial Lending Specialization |
 | First Pioneer National Bank | Wray | Colorado | www.efpnb.com | Western | 2 | Agricultural  Specialization |
-| First Financial Bank, National Association | Abilene | Texas | http://www.ffbtexas.com/ | West | 63 | All Other Specialization  > 1 Billion |
+| First Financial Bank, National Association | Abilene | Texas | http://www.ffbtexas.com/ | West | 63 | All Other Specialization  \> 1 Billion |
 | The First National Bank of Albany | Albany | Texas | http://www.fnbab.com | West | 4 | All Other Specialization  \< 1 Billion |
 | The First National Bank of Anderson | Anderson | Texas | http://www.fnbanderson.com | West | 2 | Agricultural  Specialization |
 | Independent Bank | Mckinney | Texas | www.independent-bank.com | West | 36 | Commercial Lending Specialization |
@@ -633,7 +633,7 @@
 | Austin Bank, Texas National Association | Jacksonville | Texas | http://www.austinbank.com | West | 31 | Commercial Lending Specialization |
 | The Karnes County National Bank of Karnes City | Karnes City | Texas | www.kcnb.com | West | 1 | Other Specialized Lending \< 1 Billion |
 | The First National Bank of Kemp | Kemp | Texas | http://www.fnbkemp.com | West | 2 | Other Specialized Lending \< 1 Billion |
-| First National Bank Texas | Killeen | Texas | www.1stnb.com | West | 321 | All Other Specialization  > 1 Billion |
+| First National Bank Texas | Killeen | Texas | www.1stnb.com | West | 321 | All Other Specialization  \> 1 Billion |
 | Kleberg  Bank, N.A. | Kingsville | Texas | www.klebergbank.com | West | 11 | All Other Specialization  \< 1 Billion |
 | National Bank & Trust | La Grange | Texas | http://www.nbt-texas.com | West | 1 | Mortgage Lending Specialization |
 | The Lamesa National Bank | Lamesa | Texas | WWW.LAMESANB.COM | West | 1 | Agricultural  Specialization |
@@ -670,11 +670,11 @@
 | The First National Bank of Quitaque | Quitaque | Texas | http://www.fnbquitaque.com | West | 1 | Agricultural  Specialization |
 | Bank Texas, National Association | Quitman | Texas | http://www.banktexas.org | West | 10 | Commercial Lending Specialization |
 | Vantage Bank Texas | San Antonio | Texas | http://www.vantagebank.com | West | 5 | Commercial Lending Specialization |
-| Westamerica Bank | San Rafael | California | WWW.WESTAMERICA.COM | Western | 94 | All Other Specialization  > 1 Billion |
+| Westamerica Bank | San Rafael | California | WWW.WESTAMERICA.COM | Western | 94 | All Other Specialization  \> 1 Billion |
 | First Northern Bank of Dixon | Dixon | California | www.thatsmybank.com | Western | 16 | Commercial Lending Specialization |
 | The Merchants National Bank of Sacramento | Sacramento | California | http://www.merchantsnational.com | Western | 4 | Mortgage Lending Specialization |
-| Bank of America, National Association | Charlotte | North Carolina | www.bankofamerica.com | Southeast | 5129 | All Other Specialization  > 1 Billion |
-| Wells Fargo Bank, National Association | Sioux Falls | South Dakota | http://www.wellsfargo.com | West | 6348 | All Other Specialization  > 1 Billion |
+| Bank of America, National Association | Charlotte | North Carolina | www.bankofamerica.com | Southeast | 5129 | All Other Specialization  \> 1 Billion |
+| Wells Fargo Bank, National Association | Sioux Falls | South Dakota | http://www.wellsfargo.com | West | 6348 | All Other Specialization  \> 1 Billion |
 | Bank of the West | San Francisco | California | www.bankofthewest.com | Western | 581 | Commercial Lending Specialization |
 | 1st National Bank of South Florida | Homestead | Florida | http://www.1stnatbank.com | Southeast | 6 | Commercial Lending Specialization |
 | The First National Bank of Mount Dora | Mount Dora | Florida | http://www.fnbmd.com | Southeast | 5 | All Other Specialization  \< 1 Billion |
@@ -739,7 +739,7 @@
 | The First National Bank of Okawville | Okawville | Illinois | http://fnbokaw.com | Central | 1 | Agricultural  Specialization |
 | The Old Exchange National Bank of Okawville | Okawville | Illinois | http://www.oenbokawville.com | Central | 1 | Agricultural  Specialization |
 | The First National Bank of Raymond | Raymond | Illinois | www.fnbraymond. com | Central | 5 | Agricultural  Specialization |
-| Old National Bank | Evansville | Indiana | www.oldnational.com | Central | 206 | All Other Specialization  > 1 Billion |
+| Old National Bank | Evansville | Indiana | www.oldnational.com | Central | 206 | All Other Specialization  \> 1 Billion |
 | The First National Bank of Sandoval | Sandoval | Illinois | www.fnbofsandoval.com | Central | 1 | All Other Specialization  \< 1 Billion |
 | The First National Bank of Sparta | Sparta | Illinois | www.fnbsparta.com | Central | 1 | All Other Specialization  \< 1 Billion |
 | The First National Bank | Vandalia | Illinois | www.thefnb.com | Central | 7 | Agricultural  Specialization |
@@ -830,7 +830,7 @@
 | The Central National Bank of Poteau | Poteau | Oklahoma | http://www.cnbpoteau.com | West | 6 | Agricultural  Specialization |
 | First Pryority Bank | Pryor | Oklahoma | www.firstpryoritybank.com | West | 2 | Commercial Lending Specialization |
 | McClain Bank | Purcell | Oklahoma | www.mcclainbank.com | West | 6 | Commercial Lending Specialization |
-| American Heritage Bank | Sapulpa | Oklahoma | http://www.ahb-ok.com | West | 21 | All Other Specialization  > 1 Billion |
+| American Heritage Bank | Sapulpa | Oklahoma | http://www.ahb-ok.com | West | 21 | All Other Specialization  \> 1 Billion |
 | The First National Bank of Seiling | Seiling | Oklahoma | www.fnbseiling.com | West | 1 | Agricultural  Specialization |
 | Southwest State Bank | Sentinel | Oklahoma | http://www.southweststatebank.com | West | 1 | Agricultural  Specialization |
 | SNB Bank, National Association | Shattuck | Oklahoma | www.snbbankna.com | West | 1 | Agricultural  Specialization |
@@ -853,10 +853,10 @@
 | First United Bank and Trust Company | Durant | Oklahoma | www.firstunitedbank.com | West | 30 | Commercial Lending Specialization |
 | The Idabel National Bank | Idabel | Oklahoma | http://www.idabelnational.com | West | 1 | All Other Specialization  \< 1 Billion |
 | The Camden National Bank | Camden | Maine | www.camdennational.com | Northeast | 45 | Commercial Lending Specialization |
-| The First, N.A. | Damariscotta | Maine | www.thefirst.com | Northeast | 16 | All Other Specialization  > 1 Billion |
+| The First, N.A. | Damariscotta | Maine | www.thefirst.com | Northeast | 16 | All Other Specialization  \> 1 Billion |
 | First National Bank of Louisiana | Crowley | Louisiana | http://www.fnb-la.com | Western | 5 | Commercial Lending Specialization |
 | The First National Bank of Jeanerette | Jeanerette | Louisiana | www.yourfnbj.com | Western | 6 | Commercial Lending Specialization |
-| Capital One, National Association | Mclean | Virginia | www.capitalone.com | Southeast | 890 | All Other Specialization  > 1 Billion |
+| Capital One, National Association | Mclean | Virginia | www.capitalone.com | Southeast | 890 | All Other Specialization  \> 1 Billion |
 | The Riddell National Bank | Brazil | Indiana | http://riddellonline.com | Central | 4 | All Other Specialization  \< 1 Billion |
 | FCN Bank, National Association | Brookville | Indiana | http://www.fcnbank.com | Central | 5 | All Other Specialization  \< 1 Billion |
 | First National Bank | Cloverdale | Indiana | http://www.fnb-bank.com | Central | 7 | All Other Specialization  \< 1 Billion |
@@ -1012,7 +1012,7 @@
 | The First National Bank of Elk River | Elk River | Minnesota | http://www.firstnationalfinancial.com | West | 4 | Commercial Lending Specialization |
 | The Miners National Bank of Eveleth | Eveleth | Minnesota | http://www.mnbeveleth.com | West | 1 | Other Specialized Lending \< 1 Billion |
 | The First National Bank of Fairfax | Fairfax | Minnesota | http://fnbfx.com | West | 1 | Agricultural  Specialization |
-| Wells Fargo Bank South Central, National Association | Houston | Texas |   | West | 1 | All Other Specialization  > 1 Billion |
+| Wells Fargo Bank South Central, National Association | Houston | Texas |   | West | 1 | All Other Specialization  \> 1 Billion |
 | The First National Bank of Gilbert | Gilbert | Minnesota | http://www.gilbertbank.com | West | 1 | All Other Specialization  \< 1 Billion |
 | First Minnesota Bank | Minnetonka | Minnesota | http://www.firstmnbank.com | West | 11 | Other Specialized Lending \< 1 Billion |
 | The First National Bank of Henning | Ottertail | Minnesota | www.fnbhenning.com | West | 2 | Commercial Lending Specialization |
@@ -1093,7 +1093,7 @@
 | Minden Exchange Bank & Trust Company | Minden | Nebraska | www.mindenexchange.com | West | 1 | Agricultural  Specialization |
 | Platte Valley Bank | Torrington | Wyoming | www.pvbank.com | West | 5 | Commercial Lending Specialization |
 | Bank of Newman Grove | Newman Grove | Nebraska |   | West | 1 | Agricultural  Specialization |
-| First National Bank of Omaha | Omaha | Nebraska | www.firstnational.com | West | 123 | All Other Specialization  > 1 Billion |
+| First National Bank of Omaha | Omaha | Nebraska | www.firstnational.com | West | 123 | All Other Specialization  \> 1 Billion |
 | First National Bank in Ord | Ord | Nebraska | http://www.fnbord.com | West | 3 | Agricultural  Specialization |
 | Citizens Bank & Trust Company | Saint Paul | Nebraska | www.bankwithcitizens.com | West | 3 | Agricultural  Specialization |
 | The Cattle National Bank and Trust Company | Seward | Nebraska | WWW.CATTLEBANK.COM | West | 5 | Agricultural  Specialization |
@@ -1225,7 +1225,7 @@
 | One American Bank | Centerville | South Dakota | http://www.oneamericanbank.com | West | 3 | Commercial Lending Specialization |
 | Farmers State Bank | Stickney | South Dakota |   | West | 3 | Agricultural  Specialization |
 | The Farmers State Bank of Turton | Turton | South Dakota |   | West | 1 | Agricultural  Specialization |
-| First PREMIER Bank | Sioux Falls | South Dakota | www.firstpremier.com | West | 17 | All Other Specialization  > 1 Billion |
+| First PREMIER Bank | Sioux Falls | South Dakota | www.firstpremier.com | West | 17 | All Other Specialization  \> 1 Billion |
 | Union Bank | Jamestown | Tennessee | www.myunionbankonline.com | Southeast | 3 | All Other Specialization  \< 1 Billion |
 | Macon Bank and Trust Company | Lafayette | Tennessee | maconbankandtrust.com | Southeast | 7 | All Other Specialization  \< 1 Billion |
 | Citizens Bank & Trust Company | Atwood | Tennessee | http://www.citizensbankatwood.com | Southeast | 1 | Other Specialized Lending \< 1 Billion |
@@ -1325,13 +1325,13 @@
 | Ballston Spa National Bank | Ballston Spa | New York | www.bsnb.com | Northeast | 10 | All Other Specialization  \< 1 Billion |
 | The Bridgehampton National Bank | Bridgehampton | New York | http://www.bridgenb.com | Northeast | 27 | Commercial Lending Specialization |
 | The Canandaigua National Bank and Trust Company | Canandaigua | New York | www.cnbank.com | Northeast | 25 | Commercial Lending Specialization |
-| Community Bank, National Association | Canton | New York | www.communitybankna.com | Northeast | 193 | All Other Specialization  > 1 Billion |
+| Community Bank, National Association | Canton | New York | www.communitybankna.com | Northeast | 193 | All Other Specialization  \> 1 Billion |
 | The Putnam County National Bank of Carmel | Carmel | New York | http://www.pcnb.biz | Northeast | 6 | Commercial Lending Specialization |
 | The National Bank of Coxsackie | Coxsackie | New York | www.nbcoxsackie.com | Northeast | 7 | All Other Specialization  \< 1 Billion |
 | The Delaware National Bank of Delhi | Delhi | New York | www.dnbd.net | Northeast | 4 | Other Specialized Lending \< 1 Billion |
 | The First National Bank of Dryden | Dryden | New York | www.drydenbank.com | Northeast | 2 | Other Specialized Lending \< 1 Billion |
 | The First National Bank of Long Island | Glen Head | New York | http://www.fnbli.com | Northeast | 37 | Commercial Lending Specialization |
-| Glens Falls National Bank and Trust Company | Glens Falls | New York | www.gfnational.com | Northeast | 30 | All Other Specialization  > 1 Billion |
+| Glens Falls National Bank and Trust Company | Glens Falls | New York | www.gfnational.com | Northeast | 30 | All Other Specialization  \> 1 Billion |
 | The First National Bank of Groton | Groton | New York | www.grotonbank.com | Northeast | 2 | All Other Specialization  \< 1 Billion |
 | Jeff Bank | Jeffersonville | New York | www.jeffbank.com | Northeast | 12 | Commercial Lending Specialization |
 | The National Union Bank of Kinderhook | Kinderhook | New York | www.nubk.com | Northeast | 7 | Commercial Lending Specialization |
@@ -1393,7 +1393,7 @@
 | Marion Center Bank | Indiana | Pennsylvania | http://www.marioncenterbank.com | Northeast | 8 | All Other Specialization  \< 1 Billion |
 | The Mars National Bank | Mars | Pennsylvania | http://marsbank.com | Northeast | 5 | All Other Specialization  \< 1 Billion |
 | The Citizens National Bank of Meyersdale | Meyersdale | Pennsylvania | www.citizensmeyersdale.com | Northeast | 2 | Mortgage Lending Specialization |
-| BNY Mellon, National Association | Pittsburgh | Pennsylvania | www.bnymellon.com | Northeast | 15 | All Other Specialization  > 1 Billion |
+| BNY Mellon, National Association | Pittsburgh | Pennsylvania | www.bnymellon.com | Northeast | 15 | All Other Specialization  \> 1 Billion |
 | Community First Bank | Reynoldsville | Pennsylvania | http://www.cf-bank.com | Northeast | 4 | Commercial Lending Specialization |
 | Savings Bank of Mendocino County | Ukiah | California | WWW.SAVINGSBANK.COM | Western | 10 | Other Specialized Lending \< 1 Billion |
 | Coconut Grove Bank | Miami | Florida | www.coconutgrovebank.com | Southeast | 5 | Commercial Lending Specialization |
@@ -1401,7 +1401,7 @@
 | Mount Vernon Bank | Mount Vernon | Georgia | http://www.mvbankonline.com | Southeast | 3 | All Other Specialization  \< 1 Billion |
 | Citizens Trust Bank | Atlanta | Georgia | www.ctbconnect.com | Southeast | 10 | Commercial Lending Specialization |
 | The Bath State Bank | Bath | Indiana | http://www.bathstatebank.com | Central | 2 | Agricultural  Specialization |
-| Merchants Bank of Indiana | Lynn | Indiana | http://www.merchantsbankofindiana.com | Central | 4 | All Other Specialization  > 1 Billion |
+| Merchants Bank of Indiana | Lynn | Indiana | http://www.merchantsbankofindiana.com | Central | 4 | All Other Specialization  \> 1 Billion |
 | Community State Bank of Southwestern Indiana | Poseyville | Indiana | www.csbswin.com | Central | 5 | Commercial Lending Specialization |
 | The North Salem State Bank | North Salem | Indiana | www.nssb.cc | Central | 6 | Agricultural  Specialization |
 | Community State Bank | Brook | Indiana | www.communitystatebank.com | Central | 1 | Agricultural  Specialization |
@@ -1838,7 +1838,7 @@
 | F&M Bank | Clarksville | Tennessee | www.myfmbank.com | Southeast | 20 | Commercial Lending Specialization |
 | American State Bank | Arp | Texas | www.asbtx.com | West | 5 | Commercial Lending Specialization |
 | The First State Bank | Rice | Texas | www.fsbrice-tx.com | West | 4 | Commercial Lending Specialization |
-| First State Bank of Uvalde | Uvalde | Texas | www.fsbuvalde.com | West | 8 | All Other Specialization  > 1 Billion |
+| First State Bank of Uvalde | Uvalde | Texas | www.fsbuvalde.com | West | 8 | All Other Specialization  \> 1 Billion |
 | Farmers & Merchants Bank of Craig County | New Castle | Virginia | www.fmbankcraig.com | Southeast | 1 | All Other Specialization  \< 1 Billion |
 | Jefferson Security Bank | Shepherdstown | West Virginia | http://www.jeffersonsecuritybank.com | Northeast | 6 | Mortgage Lending Specialization |
 | The Capon Valley Bank | Wardensville | West Virginia | http://www.caponvalleybank.com | Northeast | 5 | Consumer Lending Specialization |
@@ -1935,7 +1935,7 @@
 | Peoples State Bank | Shepherd | Texas | http://psbtexas.com | West | 3 | All Other Specialization  \< 1 Billion |
 | Crowell State Bank | Crowell | Texas | http://www.crowellstatebank.com | West | 1 | Agricultural  Specialization |
 | Happy State Bank | Happy | Texas | www.happybank.com | West | 33 | Agricultural  Specialization |
-| Citizens and Farmers Bank | West Point | Virginia | www.cffc.com | Southeast | 26 | All Other Specialization  > 1 Billion |
+| Citizens and Farmers Bank | West Point | Virginia | www.cffc.com | Southeast | 26 | All Other Specialization  \> 1 Billion |
 | Banner Banks | Birnamwood | Wisconsin | WWW.BANNERBANKS.COM | Central | 4 | Agricultural  Specialization |
 | Advantage Community Bank | Dorchester | Wisconsin | www.advantagecommunity.com | Central | 4 | Commercial Lending Specialization |
 | The Bank of New Glarus | New Glarus | Wisconsin | http://www.bankofnewglarus.com | Central | 6 | Commercial Lending Specialization |
@@ -2283,7 +2283,7 @@
 | Bar Harbor Bank & Trust | Bar Harbor | Maine | http://www.bhbt.com | Northeast | 15 | Mortgage Lending Specialization |
 | Lafayette Savings Bank, FSB | Lafayette | Indiana | www.lsbank.com | Central | 5 | Commercial Lending Specialization |
 | The Provident Bank | Jersey City | New Jersey | http://www.providentnj.com | Northeast | 89 | Commercial Lending Specialization |
-| Union County Savings Bank | Elizabeth | New Jersey |   | Northeast | 4 | All Other Specialization  > 1 Billion |
+| Union County Savings Bank | Elizabeth | New Jersey |   | Northeast | 4 | All Other Specialization  \> 1 Billion |
 | RSI BANK | Rahway | New Jersey | www.rsibanking.com | Northeast | 4 | Mortgage Lending Specialization |
 | Emigrant Bank | New York | New York | www.emigrant.com | Northeast | 5 | Commercial Lending Specialization |
 | The Greenville Banking Company | Greenville | Georgia | www.greenvillebank.com | Southeast | 1 | Other Specialized Lending \< 1 Billion |
@@ -2373,7 +2373,7 @@
 | Lena State Bank | Lena | Illinois | http://www.lenastatebank.com | Central | 2 | Agricultural  Specialization |
 | State Bank of Lincoln | Lincoln | Illinois | http://www.sblincoln.com | Central | 6 | Other Specialized Lending \< 1 Billion |
 | Exchange State Bank | Lanark | Illinois | http://www.lanarkbank.com | Central | 1 | Agricultural  Specialization |
-| Glenview State Bank | Glenview | Illinois | http://www.gsb.com | Central | 7 | All Other Specialization  > 1 Billion |
+| Glenview State Bank | Glenview | Illinois | http://www.gsb.com | Central | 7 | All Other Specialization  \> 1 Billion |
 | Hardware State Bank | Lovington | Illinois | http://www.hardwarestatebank.com | Central | 1 | Agricultural  Specialization |
 | La Salle State Bank | La Salle | Illinois | www.elsb.com | Central | 3 | Commercial Lending Specialization |
 | Tri-Valley Bank | Randolph | Iowa | www.tri-valleycenters.com | Western | 2 | Agricultural  Specialization |
@@ -2415,7 +2415,7 @@
 | Legends Bank | Linn | Missouri | http://www.legendsbk.com | West | 10 | Commercial Lending Specialization |
 | Heritage State Bank | Nevada | Missouri | http://heritagestatebank.com | West | 5 | Agricultural  Specialization |
 | Bank of Washington | Washington | Missouri | http://www.bankofwashington.com | West | 6 | Commercial Lending Specialization |
-| The Central Trust Bank | Jefferson City | Missouri | www.centralbank.net | West | 13 | All Other Specialization  > 1 Billion |
+| The Central Trust Bank | Jefferson City | Missouri | www.centralbank.net | West | 13 | All Other Specialization  \> 1 Billion |
 | Greenleaf Wayside Bank | Greenleaf | Wisconsin | http://www.greenleafwaysidebank.com | Central | 3 | All Other Specialization  \< 1 Billion |
 | Citizens Community Bank | Pilot Grove | Missouri | www.ccb-online.net | West | 3 | Agricultural  Specialization |
 | Legacy Bank | Wiley | Colorado | www.legacyib.com | Western | 9 | Commercial Lending Specialization |
@@ -2579,7 +2579,7 @@
 | The Libertyville Savings Bank | Fairfield | Iowa | www.libertyvillesavingsbank.com | Western | 5 | Agricultural  Specialization |
 | The State Bank | Spirit Lake | Iowa | http://www.statebankspiritlake.com | Western | 2 | Agricultural  Specialization |
 | The Middlefield Banking Company | Middlefield | Ohio | http://www.middlefieldbank.com | Central | 11 | Commercial Lending Specialization |
-| Wells Fargo Bank Northwest, National Association | Ogden | Utah |   | West | 1 | All Other Specialization  > 1 Billion |
+| Wells Fargo Bank Northwest, National Association | Ogden | Utah |   | West | 1 | All Other Specialization  \> 1 Billion |
 | Hampton State Bank | Hampton | Iowa | www.hamptonstate.come | Western | 2 | Agricultural  Specialization |
 | The State Bank of Hildreth | Hildreth | Nebraska | http://statebankofhildreth.com | West | 1 | Agricultural  Specialization |
 | Prescott State Bank | Prescott | Kansas | http://onlinebanking.prescottstatebank.com | Western | 1 | Agricultural  Specialization |
@@ -2920,7 +2920,7 @@
 | The Denison State Bank | Holton | Kansas | http://www.dsbks.com | Western | 5 | Agricultural  Specialization |
 | Garrison State Bank and Trust | Garrison | North Dakota | http://www.garrisonstatebank.com | West | 1 | Agricultural  Specialization |
 | State Bank of Wapello | Wapello | Iowa | www.statebankofwapello.com | Western | 1 | Agricultural  Specialization |
-| CB&S Bank, Inc. | Russellville | Alabama | WWW.CBSBANK.COM | Southeast | 56 | All Other Specialization  > 1 Billion |
+| CB&S Bank, Inc. | Russellville | Alabama | WWW.CBSBANK.COM | Southeast | 56 | All Other Specialization  \> 1 Billion |
 | Iowa Falls State Bank | Iowa Falls | Iowa | www.ifsbank.com | Western | 2 | Agricultural  Specialization |
 | The St. Marys State Bank | Saint Marys | Kansas | www.smsb.org | Western | 2 | Agricultural  Specialization |
 | Laurens State Bank | Laurens | Iowa | www.laurensstatebank.com | Western | 3 | Agricultural  Specialization |
@@ -2977,7 +2977,7 @@
 | First State Bank of Blakely | Blakely | Georgia | http://www.fsbanks.com | Southeast | 7 | Agricultural  Specialization |
 | The Lytle State Bank of Lytle, Texas | Lytle | Texas | www.lytlestatebank.com | West | 1 | Other Specialized Lending \< 1 Billion |
 | State Bank | New Hampton | Iowa | http://www.statebankia.com | Western | 9 | Agricultural  Specialization |
-| First Citizens Bank and Trust Company, Inc. | Columbia | South Carolina | www.firstcitizensonline.com | Southeast | 178 | All Other Specialization  > 1 Billion |
+| First Citizens Bank and Trust Company, Inc. | Columbia | South Carolina | www.firstcitizensonline.com | Southeast | 178 | All Other Specialization  \> 1 Billion |
 | Ameristate Bank | Atoka | Oklahoma | http://www.ameristatebank.com | West | 4 | Commercial Lending Specialization |
 | First State Bank | Gainesville | Texas | http://www.f-s-b.com | West | 11 | Other Specialized Lending \< 1 Billion |
 | Citizens State Bank | Miles | Texas | www.citizensstatebk.com | West | 2 | Commercial Lending Specialization |
@@ -3024,7 +3024,7 @@
 | Clear Lake Bank and Trust Company | Clear Lake | Iowa | http://www.clearlakebank.com | Western | 5 | Commercial Lending Specialization |
 | First State Bank | Yukon | Oklahoma |   | West | 1 | Commercial Lending Specialization |
 | First Bank of Linden | Linden | Alabama | www.firstbanklinden.com | Southeast | 1 | Agricultural  Specialization |
-| Beneficial Mutual Savings Bank | Philadelphia | Pennsylvania | http://www.thebeneficial.com | Northeast | 59 | All Other Specialization  > 1 Billion |
+| Beneficial Mutual Savings Bank | Philadelphia | Pennsylvania | http://www.thebeneficial.com | Northeast | 59 | All Other Specialization  \> 1 Billion |
 | Alma Exchange Bank & Trust | Alma | Georgia | http://www.aebalma.com | Southeast | 2 | Agricultural  Specialization |
 | The Seymour Bank | Seymour | Missouri | http://theseymourbank.com | West | 2 | Agricultural  Specialization |
 | Town & Country Bank and Trust Company | Bardstown | Kentucky | http://www.mytcbt.com | Southeast | 6 | Commercial Lending Specialization |
@@ -3054,7 +3054,7 @@
 | The Stock Exchange Bank, Caldwell, Kansas | Caldwell | Kansas | http://www.stockxbank.com | Western | 2 | Agricultural  Specialization |
 | First State Bank | Wilmot | South Dakota | www.firststatebanksd.com | West | 2 | Agricultural  Specialization |
 | Peoples Bank of Moniteau County | Jamestown | Missouri | http://www.pbomc.com | West | 2 | Agricultural  Specialization |
-| Broadway National Bank | San Antonio | Texas | www.broadwaybank.com | West | 42 | All Other Specialization  > 1 Billion |
+| Broadway National Bank | San Antonio | Texas | www.broadwaybank.com | West | 42 | All Other Specialization  \> 1 Billion |
 | Premier Community Bank | Marion | Wisconsin | www.premiercommunity.com | Central | 11 | Agricultural  Specialization |
 | Farmers and Merchants Bank | Baldwyn | Mississippi | www.fmbms.com | West | 8 | Commercial Lending Specialization |
 | First State Bank of Wabasha | Wabasha | Minnesota | http://www.fsbwabasha.com | West | 2 | Other Specialized Lending \< 1 Billion |
@@ -3235,7 +3235,7 @@
 | State Bank of Easton | Easton | Minnesota |   | West | 1 | Agricultural  Specialization |
 | Tallahatchie County Bank | Charleston | Mississippi |   | West | 1 | Agricultural  Specialization |
 | Sheridan State Bank | Sheridan | Illinois | http://sheridanbank.com | Central | 1 | All Other Specialization  \< 1 Billion |
-| BMO Harris Bank National Association | Chicago | Illinois | http://www.bmoharris.com | Central | 672 | All Other Specialization  > 1 Billion |
+| BMO Harris Bank National Association | Chicago | Illinois | http://www.bmoharris.com | Central | 672 | All Other Specialization  \> 1 Billion |
 | Citizens State Bank | Anton | Texas | http://csbanton.com | West | 1 | Agricultural  Specialization |
 | State Bank of Burrton | Burrton | Kansas | www.statebankofburrtononline.com | Western | 1 | Other Specialized Lending \< 1 Billion |
 | Carver State Bank | Savannah | Georgia | http://WWW.CARVERSTATEBANK.COM | Southeast | 2 | Commercial Lending Specialization |
@@ -3601,12 +3601,12 @@
 | Farmers Savings Bank | Fostoria | Iowa | www.fsbfostoria.com | Western | 2 | Agricultural  Specialization |
 | Dutton State Bank | Dutton | Montana | WWW.DUTTONSTATEBANK.COM | West | 2 | Agricultural  Specialization |
 | Hawaii National Bank | Honolulu | Hawaii | www.hawaiinational.com | Western | 14 | Commercial Lending Specialization |
-| Southside Bank | Tyler | Texas | www.southside.com | West | 40 | All Other Specialization  > 1 Billion |
+| Southside Bank | Tyler | Texas | www.southside.com | West | 40 | All Other Specialization  \> 1 Billion |
 | First State Bank | Shallowater | Texas | http://fsbshallowater.com | West | 2 | Commercial Lending Specialization |
 | Powell State Bank | Powell | Texas |   | West | 1 | All Other Specialization  \< 1 Billion |
 | Boston Trust & Investment Management Company | Boston | Massachusetts | http://www.bostontrust.com | Northeast | 1 | Other Specialized Lending \< 1 Billion |
 | Huntington State Bank | Huntington | Texas | www.huntingtonstatebank.com | West | 9 | Commercial Lending Specialization |
-| North Dallas Bank & Trust Co. | Dallas | Texas | www.ndbt.com | West | 6 | All Other Specialization  > 1 Billion |
+| North Dallas Bank & Trust Co. | Dallas | Texas | www.ndbt.com | West | 6 | All Other Specialization  \> 1 Billion |
 | Citizens State Bank | Sheldon | Iowa | http://www.csbsheldon.com | Western | 2 | Agricultural  Specialization |
 | Coulee Bank | La Crosse | Wisconsin | www.couleebank.net | Central | 5 | Commercial Lending Specialization |
 | Cumberland County Bank | Crossville | Tennessee | cumberlandcountybank.com | Southeast | 4 | Other Specialized Lending \< 1 Billion |
@@ -3618,9 +3618,9 @@
 | Western Commerce Bank | Carlsbad | New Mexico | http://www.wcb.net | West | 12 | Commercial Lending Specialization |
 | Farmers Savings Bank | Marshalltown | Iowa | www.fsb-iowa.com | Western | 3 | Agricultural  Specialization |
 | Iowa Trust & Savings Bank | Emmetsburg | Iowa | www.iowatrustbank.com | Western | 2 | Agricultural  Specialization |
-| Blackhawk Bank & Trust | Milan | Illinois | http://www.choosethechief.com | Central | 16 | All Other Specialization  > 1 Billion |
+| Blackhawk Bank & Trust | Milan | Illinois | http://www.choosethechief.com | Central | 16 | All Other Specialization  \> 1 Billion |
 | Bangor Savings Bank | Bangor | Maine | www.bangor.com | Northeast | 58 | Commercial Lending Specialization |
-| TD Bank, National Association | Wilmington | Delaware | http://www.tdbank.com | Northeast | 1333 | All Other Specialization  > 1 Billion |
+| TD Bank, National Association | Wilmington | Delaware | http://www.tdbank.com | Northeast | 1333 | All Other Specialization  \> 1 Billion |
 | The Citizens Bank of Logan, Ohio | Logan | Ohio | www.tcbol.com | Central | 6 | Commercial Lending Specialization |
 | Morton Community Bank | Morton | Illinois | http://www.hometownbanks.com | Central | 32 | Commercial Lending Specialization |
 | First Bank Kansas | Salina | Kansas | http://www.firstbankkansas.com | Western | 6 | All Other Specialization  \< 1 Billion |
@@ -3694,7 +3694,7 @@
 | First National Bank of Lake Jackson | Lake Jackson | Texas | www.fnblj.com | West | 2 | Mortgage Lending Specialization |
 | King Southern Bank | Chaplin | Kentucky | www.kingsouthernbank.com | Southeast | 5 | Commercial Lending Specialization |
 | Tri City National Bank | Oak Creek | Wisconsin | www.tcnb.com | Central | 40 | Commercial Lending Specialization |
-| Banamex USA | Century City | California | http://www.banamexusa.com | Western | 3 | All Other Specialization  > 1 Billion |
+| Banamex USA | Century City | California | http://www.banamexusa.com | Western | 3 | All Other Specialization  \> 1 Billion |
 | First State Bank | Elmore City | Oklahoma | fsbec.com | West | 1 | All Other Specialization  \< 1 Billion |
 | Bank of Belle Glade | Belle Glade | Florida | http://www.bankofbelleglade.com | Southeast | 1 | Mortgage Lending Specialization |
 | St. Martin National Bank | Saint Martin | Minnesota | www.stmartinnationalbank.com | West | 1 | Agricultural  Specialization |
@@ -3990,7 +3990,7 @@
 | Mizuho Bank (USA) | New York | New York |   | Northeast | 2 | Commercial Lending Specialization |
 | Quail Creek Bank, National Association | Oklahoma City | Oklahoma | www.quailcreekbank.com | West | 1 | Commercial Lending Specialization |
 | Far East National Bank | Los Angeles | California | http://FAREASTNATIONALBANK.COM | Western | 9 | Commercial Lending Specialization |
-| Bessemer Trust Company, National Association | New York | New York | http://www.bessemertrust.com | Northeast | 1 | All Other Specialization  > 1 Billion |
+| Bessemer Trust Company, National Association | New York | New York | http://www.bessemertrust.com | Northeast | 1 | All Other Specialization  \> 1 Billion |
 | First Peoples Bank of Tennessee | Jefferson City | Tennessee | http://firstpeoplesbank.net | Southeast | 7 | Commercial Lending Specialization |
 | TruPoint Bank | Grundy | Virginia | www.trupointbank.com | Southeast | 12 | Commercial Lending Specialization |
 | Bank Star | Pacific | Missouri | www.bank-star.com | West | 1 | Commercial Lending Specialization |
@@ -4168,7 +4168,7 @@
 | Citizens National Bank of Wills Point | Wills Point | Texas | www.citizensnational.org | West | 3 | All Other Specialization  \< 1 Billion |
 | Houston Community Bank, National Association | Houston | Texas | www.houstoncommunitybank.com | West | 6 | Commercial Lending Specialization |
 | Islanders Bank | Friday Harbor | Washington | http://islandersbank.com | West | 3 | Commercial Lending Specialization |
-| The Bank of New York Mellon Trust Company, National Association | Los Angeles | California | www.bnymellon.com | Western | 27 | All Other Specialization  > 1 Billion |
+| The Bank of New York Mellon Trust Company, National Association | Los Angeles | California | www.bnymellon.com | Western | 27 | All Other Specialization  \> 1 Billion |
 | First Fidelity Bank, National Association | Oklahoma City | Oklahoma | www.ffb.com | West | 31 | Commercial Lending Specialization |
 | The American National Bank of Texas | Terrell | Texas | www.anbtx.com | West | 26 | Commercial Lending Specialization |
 | Triumph Savings Bank, SSB | Dallas | Texas | http://www.triumphssb.com | West | 2 | Commercial Lending Specialization |
@@ -4184,7 +4184,7 @@
 | Bristol County Savings Bank | Taunton | Massachusetts | www.bristolcountysavingsbank.com | Northeast | 18 | Commercial Lending Specialization |
 | The Washington Trust Company, of Westerly | Westerly | Rhode Island | www.washtrust.com | Northeast | 21 | Commercial Lending Specialization |
 | Republic Bank & Trust Company | Louisville | Kentucky | http://www.republicbank.com | Southeast | 42 | Commercial Lending Specialization |
-| TIB The Independent Bankersbank | Farmers Branch | Texas | www.mybankersbank.com | West | 6 | All Other Specialization  > 1 Billion |
+| TIB The Independent Bankersbank | Farmers Branch | Texas | www.mybankersbank.com | West | 6 | All Other Specialization  \> 1 Billion |
 | Chase Bank USA, National Association | Wilmington | Delaware | http://www.chase.com | Northeast | 3 | Credit-Card   Specialization |
 | Valley National Bank | Tulsa | Oklahoma | http://www.bankvnb.com | West | 11 | Commercial Lending Specialization |
 | Mission National Bank | San Francisco | California | http://www.mnbsf.com | Western | 3 | Commercial Lending Specialization |
@@ -4242,7 +4242,7 @@
 | American National Bank | Ardmore | Oklahoma | www.bankanb.com | West | 8 | Commercial Lending Specialization |
 | Great Lakes Bankers Bank | Worthington | Ohio | http://www.greatlakesbb.com | Central | 1 | Commercial Lending Specialization |
 | First State Bank | Graham | Texas | http://www.fsbgraham.com | West | 5 | All Other Specialization  \< 1 Billion |
-| Interaudi Bank | New York | New York | www.interaudibank.com | Northeast | 2 | All Other Specialization  > 1 Billion |
+| Interaudi Bank | New York | New York | www.interaudibank.com | Northeast | 2 | All Other Specialization  \> 1 Billion |
 | Bank of New England | Salem | New Hampshire | http://www.bankofnewengland.com | Northeast | 9 | Commercial Lending Specialization |
 | Woodhaven National Bank | Fort Worth | Texas | http://www.woodhavenbank.com | West | 8 | Commercial Lending Specialization |
 | Crockett National Bank | Ozona | Texas | www.crockettnationalbank.com | West | 7 | All Other Specialization  \< 1 Billion |
@@ -4251,7 +4251,7 @@
 | Independent Banker's Bank of Florida | Lake Mary | Florida | www.ibbfla.com | Southeast | 1 | Commercial Lending Specialization |
 | American River Bank | Sacramento | California | www.americanriverbank.com | Western | 12 | Commercial Lending Specialization |
 | Triad Bank, National Association | Tulsa | Oklahoma | Triadbank.com | West | 2 | Commercial Lending Specialization |
-| Silicon Valley Bank | Santa Clara | California | www.svb.com | Western | 6 | All Other Specialization  > 1 Billion |
+| Silicon Valley Bank | Santa Clara | California | www.svb.com | Western | 6 | All Other Specialization  \> 1 Billion |
 | Panola National Bank | Carthage | Texas | www.panolanationalbank.com | West | 2 | Mortgage Lending Specialization |
 | Boston Private Bank & Trust Company | Boston | Massachusetts | http://www.bostonprivatebank.com | Northeast | 23 | Commercial Lending Specialization |
 | International Finance Bank | Miami | Florida | http://www.ifbbank.com | Southeast | 5 | Commercial Lending Specialization |
@@ -4265,7 +4265,7 @@
 | Grand Valley Bank | Heber City | Utah | www.grandvalleybank.com | West | 8 | All Other Specialization  \< 1 Billion |
 | International Bank of Commerce | Zapata | Texas | www.ibc.com | West | 12 | Mortgage Lending Specialization |
 | Valley Bank of Ronan | Ronan | Montana | www.valleybankronan.com | West | 5 | All Other Specialization  \< 1 Billion |
-| Commerce Bank | Kansas City | Missouri | www.commercebank.com | West | 196 | All Other Specialization  > 1 Billion |
+| Commerce Bank | Kansas City | Missouri | www.commercebank.com | West | 196 | All Other Specialization  \> 1 Billion |
 | Summit National Bank | Hulett | Wyoming | http://www.summitnb.com | West | 5 | Agricultural  Specialization |
 | First National Bank of Benton | Benton | Louisiana | www.fnbbenton.com | Western | 1 | All Other Specialization  \< 1 Billion |
 | Habib American Bank | New York | New York | www.habbank.com | Northeast | 7 | Commercial Lending Specialization |
@@ -4341,7 +4341,7 @@
 | Genesee Regional Bank | Rochester | New York | www.grbbank.com | Northeast | 3 | Commercial Lending Specialization |
 | The Village Bank | Auburndale | Massachusetts | http://www.village-bank.com | Northeast | 8 | Commercial Lending Specialization |
 | Flint Hills Bank | Eskridge | Kansas | www.flinthillsbank.com | Western | 4 | Agricultural  Specialization |
-| RBC Bank, (Georgia) National Association | Atlanta | Georgia | www.rbcbank.com | Southeast | 1 | All Other Specialization  > 1 Billion |
+| RBC Bank, (Georgia) National Association | Atlanta | Georgia | www.rbcbank.com | Southeast | 1 | All Other Specialization  \> 1 Billion |
 | Unity National Bank of Houston | Houston | Texas | WWW.UNITYBANKTEXAS.COM | West | 2 | Commercial Lending Specialization |
 | State Bank of Southwest Missouri | Springfield | Missouri | http://www.statebankonline.net | West | 1 | Mortgage Lending Specialization |
 | Community Commerce Bank | Claremont | California | http://www.ccombank.com | Western | 4 | Commercial Lending Specialization |
@@ -4472,7 +4472,7 @@
 | Community National Bank & Trust | Chanute | Kansas | http://www.mybankcnb.com | Western | 26 | Commercial Lending Specialization |
 | St. Charles Bank & Trust Company | Saint Charles | Illinois | www.bankstcharles.com | Central | 5 | Commercial Lending Specialization |
 | Community Financial Bank | Prentice | Wisconsin | www.CommunityFinancialBank.net | Central | 2 | All Other Specialization  \< 1 Billion |
-| Sumitomo Mitsui Trust Bank (U.S.A.) Limited | Hoboken | New Jersey | WWW.SMTBUSA.COM | Northeast | 1 | All Other Specialization  > 1 Billion |
+| Sumitomo Mitsui Trust Bank (U.S.A.) Limited | Hoboken | New Jersey | WWW.SMTBUSA.COM | Northeast | 1 | All Other Specialization  \> 1 Billion |
 | Clover Community Bank | Clover | South Carolina | http://clovercommunitybank.com | Southeast | 2 | Commercial Lending Specialization |
 | State Bank of Texas | Dallas | Texas | www.statebnk.com | West | 4 | Commercial Lending Specialization |
 | First Bank & Trust | Sioux Falls | South Dakota | http://www.bankeasy.com | West | 7 | Commercial Lending Specialization |
@@ -4877,7 +4877,7 @@
 | Paper City Savings Association | Wisconsin Rapids | Wisconsin | www.papercitysavings.com | Central | 3 | Mortgage Lending Specialization |
 | Nashville Savings Bank | Nashville | Illinois | http://nashvillesavingsbk.com | Central | 1 | All Other Specialization  \< 1 Billion |
 | Anthem Bank & Trust | Plaquemine | Louisiana | www.anthembank.com | Western | 5 | Commercial Lending Specialization |
-| Home Federal Bank of Tennessee | Knoxville | Tennessee | www.homefederalbanktn.com | Southeast | 23 | All Other Specialization  > 1 Billion |
+| Home Federal Bank of Tennessee | Knoxville | Tennessee | www.homefederalbanktn.com | Southeast | 23 | All Other Specialization  \> 1 Billion |
 | Martinsville First Savings Bank | Martinsville | Virginia | www.martinsvillefirst.com | Southeast | 1 | Mortgage Lending Specialization |
 | First Federal Savings Bank | Huntington | Indiana | www.firstfedhuntington.com | Central | 6 | Commercial Lending Specialization |
 | KeySavings Bank | Wisconsin Rapids | Wisconsin | www.keysavingsbank.com | Central | 2 | Mortgage Lending Specialization |
@@ -4956,7 +4956,7 @@
 | Phoenixville Federal Bank and Trust | Phoenixville | Pennsylvania | www.phoenixfed.com | Northeast | 6 | Mortgage Lending Specialization |
 | Mutual Savings Bank | Hartsville | South Carolina | www.mutualsavings.net | Southeast | 1 | All Other Specialization  \< 1 Billion |
 | Mutual Federal Savings Bank, A FSB | Sidney | Ohio | www.mutualbancorp.com | Central | 4 | Commercial Lending Specialization |
-| Guaranty Bank | Milwaukee | Wisconsin | www.guarantybank.com | Central | 157 | All Other Specialization  > 1 Billion |
+| Guaranty Bank | Milwaukee | Wisconsin | www.guarantybank.com | Central | 157 | All Other Specialization  \> 1 Billion |
 | Prudential Savings Bank | Philadelphia | Pennsylvania | www.prudentialsavingsbank.com | Northeast | 7 | Mortgage Lending Specialization |
 | Third Federal Savings and Loan Association of Cleveland | Cleveland | Ohio | http://www.thirdfederal.com | Central | 38 | Mortgage Lending Specialization |
 | Millington Savings Bank | Millington | New Jersey | millingtonsb.com | Northeast | 5 | Mortgage Lending Specialization |
@@ -5068,7 +5068,7 @@
 | Belpre Savings Bank | Belpre | Ohio | www.belpresavingsbank.com | Central | 2 | Mortgage Lending Specialization |
 | E*TRADE Bank | Arlington | Virginia | www.etrade.com | Southeast | 2 | Mortgage Lending Specialization |
 | Sunshine State Bank | Plant City | Florida | www.sunshinestatefederal.com | Southeast | 5 | Other Specialized Lending \< 1 Billion |
-| MetaBank | Storm Lake | Iowa | http://www.metabank.com | Western | 11 | All Other Specialization  > 1 Billion |
+| MetaBank | Storm Lake | Iowa | http://www.metabank.com | Western | 11 | All Other Specialization  \> 1 Billion |
 | Glacier Bank | Kalispell | Montana | www.glacierbank.com | West | 122 | Commercial Lending Specialization |
 | Northwestern Bank | Traverse City | Michigan | http://www.nwbank.com | Central | 25 | Commercial Lending Specialization |
 | First Federal Savings and Loan Association | Pascagoula | Mississippi | www.firstwithus.com | West | 6 | Mortgage Lending Specialization |
@@ -5138,7 +5138,7 @@
 | Brainerd Savings and Loan Association, A Federal Association | Brainerd | Minnesota | www.brainerdsavings.com | West | 2 | Mortgage Lending Specialization |
 | Macon Bank, Inc. | Franklin | North Carolina | http://www.maconbank.com | Southeast | 11 | Commercial Lending Specialization |
 | Harleysville Savings Bank | Harleysville | Pennsylvania | www.harleysvillesavings.com | Northeast | 9 | Mortgage Lending Specialization |
-| Oriental Bank | San Juan | Puerto Rico | http://www.orientalbank.com | Southeast | 1 | All Other Specialization  > 1 Billion |
+| Oriental Bank | San Juan | Puerto Rico | http://www.orientalbank.com | Southeast | 1 | All Other Specialization  \> 1 Billion |
 | First Fidelity Bank | Fort Payne | Alabama | http://www.bankffb.com | Southeast | 3 | All Other Specialization  \< 1 Billion |
 | Equitable Bank | Grand Island | Nebraska | http://www.equitableonline.com | West | 6 | Agricultural  Specialization |
 | Progressive Ozark Bank | Salem | Missouri | www.progressiveozarkbank.com | West | 4 | Mortgage Lending Specialization |
@@ -5247,7 +5247,7 @@
 | Prudential Bank & Trust, FSB | Hartford | Connecticut |   | Northeast | 1 | Mortgage Lending Specialization |
 | Community Bank and Trust - Alabama | Union Springs | Alabama | redapplebank.com | Southeast | 3 | All Other Specialization  \< 1 Billion |
 | Gulf Coast Bank and Trust Company | New Orleans | Louisiana | www.gulfbank.com | Western | 26 | Commercial Lending Specialization |
-| Morgan Stanley Bank, National Association | Salt Lake City | Utah | NULL | West | 1 | All Other Specialization  > 1 Billion |
+| Morgan Stanley Bank, National Association | Salt Lake City | Utah | NULL | West | 1 | All Other Specialization  \> 1 Billion |
 | First Collinsville Bank | Collinsville | Illinois | http://www.fcbbanks.com | Central | 9 | Consumer Lending Specialization |
 | County Bank | Rehoboth Beach | Delaware | http://WWW.COUNTYBANKDEL.COM | Northeast | 7 | Commercial Lending Specialization |
 | First Peoples Bank | Pine Mountain | Georgia | http://www.FirstPeoplesBank.com | Southeast | 2 | All Other Specialization  \< 1 Billion |
@@ -5259,7 +5259,7 @@
 | Colorado Federal Savings Bank | Greenwood Village | Colorado | www.coloradofederalbank.com | Western | 1 | Mortgage Lending Specialization |
 | United Labor Bank, F.S.B. | Oakland | California | http://www.laborbank.com | Western | 9 | Commercial Lending Specialization |
 | Heritage Bank, Inc. | Erlanger | Kentucky | WWW.HERITAGEBANK-KY.COM | Southeast | 18 | Commercial Lending Specialization |
-| Goldman Sachs Bank USA | New York | New York |   | Northeast | 5 | All Other Specialization  > 1 Billion |
+| Goldman Sachs Bank USA | New York | New York |   | Northeast | 5 | All Other Specialization  \> 1 Billion |
 | First Farmers & Merchants National Bank | Fairmont | Minnesota | http://www.ffmbank.com | West | 2 | Commercial Lending Specialization |
 | Talmer West Bank | Ann Arbor | Michigan | http://www.talmerwest.com | Central | 16 | Commercial Lending Specialization |
 | Liberty Bank, National Association | Twinsburg | Ohio | http://WWW.LIBERTYBANKNA.COM | Central | 3 | Commercial Lending Specialization |
@@ -5278,7 +5278,7 @@
 | Enterprise Bank | Omaha | Nebraska | http://ENTERPRISEBANKOMAHA.COM | West | 3 | Commercial Lending Specialization |
 | First Bank and Trust | New Orleans | Louisiana | fbtonline.com | Western | 16 | Commercial Lending Specialization |
 | Ledyard National Bank | Norwich | Vermont | www.ledyardbank.com | Northeast | 8 | Commercial Lending Specialization |
-| Citizens First Bank | The Villages | Florida | http://www.citizensfb.com | Southeast | 11 | All Other Specialization  > 1 Billion |
+| Citizens First Bank | The Villages | Florida | http://www.citizensfb.com | Southeast | 11 | All Other Specialization  \> 1 Billion |
 | Arbor Bank | Nebraska City | Nebraska | http://arborbanking.com | West | 5 | Agricultural  Specialization |
 | Oak Valley Community Bank | Oakdale | California | http://www.ovcb.com | Western | 15 | Commercial Lending Specialization |
 | Monona State Bank | Monona | Wisconsin | www.mononabank.com | Central | 4 | Commercial Lending Specialization |
@@ -5303,13 +5303,13 @@
 | Trust Company of America | Centennial | Colorado | www.trustamerica.com | Western | 1 | Other Specialized Lending \< 1 Billion |
 | Lee Bank | Lee | Massachusetts | www.leebank.com | Northeast | 5 | Commercial Lending Specialization |
 | The Bank of East Asia Ltd. | New York | New York |   | Northeast | 1 | Commercial Lending Specialization |
-| Bank of India | New York | New York |   | Northeast | 1 | All Other Specialization  > 1 Billion |
+| Bank of India | New York | New York |   | Northeast | 1 | All Other Specialization  \> 1 Billion |
 | Bank of China | Flushing | New York |   | Northeast | 1 |   |
-| Bank of China | New York | New York |   | Northeast | 1 | All Other Specialization  > 1 Billion |
+| Bank of China | New York | New York |   | Northeast | 1 | All Other Specialization  \> 1 Billion |
 | Metropolitan Bank and Trust Company | New York | New York |   | Northeast | 1 | Other Specialized Lending \< 1 Billion |
-| Mizrahi Tefahot Bank, Ltd. | Los Angeles | California |   | Western | 1 | All Other Specialization  > 1 Billion |
+| Mizrahi Tefahot Bank, Ltd. | Los Angeles | California |   | Western | 1 | All Other Specialization  \> 1 Billion |
 | State Bank of India | Chicago | Illinois |   | Central | 1 | Commercial Lending Specialization |
-| Bank of Baroda | New York | New York |   | Northeast | 1 | All Other Specialization  > 1 Billion |
+| Bank of Baroda | New York | New York |   | Northeast | 1 | All Other Specialization  \> 1 Billion |
 | State Bank of India | New York | New York |   | Northeast | 1 | Commercial Lending Specialization |
 | Bank Hapoalim B.M. | New York | New York |   | Northeast | 1 | Commercial Lending Specialization |
 | International Bank of Chicago | Chicago | Illinois | www.inbk.com | Central | 7 | Commercial Lending Specialization |
@@ -5374,7 +5374,7 @@
 | Lusitania Savings Bank | Newark | New Jersey | www.lusitaniabank.com | Northeast | 4 | All Other Specialization  \< 1 Billion |
 | First Bank & Trust | Evanston | Illinois | www.firstbt.com | Central | 9 | Commercial Lending Specialization |
 | Thomasville National Bank | Thomasville | Georgia | www.tnbank.com | Southeast | 3 | Commercial Lending Specialization |
-| Wilmington Trust, National Association | Wilmington | Delaware | http://www.wilmingtontrust.com | Northeast | 31 | All Other Specialization  > 1 Billion |
+| Wilmington Trust, National Association | Wilmington | Delaware | http://www.wilmingtontrust.com | Northeast | 31 | All Other Specialization  \> 1 Billion |
 | Heritage Bank of Nevada | Reno | Nevada | http://www.heritagebanknevada.com | West | 7 | Commercial Lending Specialization |
 | Libertyville Bank & Trust Company | Libertyville | Illinois | www.libertyvillebank.com | Central | 8 | Commercial Lending Specialization |
 | Capitol Bank | Madison | Wisconsin | http://www.capitolbank.com | Central | 14 | Commercial Lending Specialization |
@@ -5448,7 +5448,7 @@
 | American Metro Bank | Chicago | Illinois | http://www.americanmetrobank.com | Central | 2 | Commercial Lending Specialization |
 | InvestorsBank | Waukesha | Wisconsin | http://www.investorsbank.com | Central | 1 | Commercial Lending Specialization |
 | Carolina Bank | Greensboro | North Carolina | www.carolinabank.com | Southeast | 8 | Commercial Lending Specialization |
-| USAA Savings Bank | Las Vegas | Nevada | www.usaa.com | West | 1 | All Other Specialization  > 1 Billion |
+| USAA Savings Bank | Las Vegas | Nevada | www.usaa.com | West | 1 | All Other Specialization  \> 1 Billion |
 | City First Bank of D.C., National Association | Washington | District Of Columbia | http://www.cityfirstbank.com | Southeast | 1 | Commercial Lending Specialization |
 | Crestmark Bank | Troy | Michigan | WWW.CRESTMARK.COM | Central | 1 | Commercial Lending Specialization |
 | Core Bank | Omaha | Nebraska | http://corebank.com | West | 9 | Commercial Lending Specialization |
@@ -5896,13 +5896,13 @@
 | Victory Community Bank | Fort Mitchell | Kentucky | www.victorycommunitybank.com | Southeast | 3 | Mortgage Lending Specialization |
 | Commerce Bank of Arizona | Tucson | Arizona | www.commercebankaz.com | Western | 5 | Commercial Lending Specialization |
 | FlatIrons Bank | Boulder | Colorado | www.flatironsbank.com | Western | 3 | Commercial Lending Specialization |
-| Citizens Bank of Pennsylvania | Philadelphia | Pennsylvania | www.citizensbank.com | Northeast | 372 | All Other Specialization  > 1 Billion |
+| Citizens Bank of Pennsylvania | Philadelphia | Pennsylvania | www.citizensbank.com | Northeast | 372 | All Other Specialization  \> 1 Billion |
 | EnerBank USA | Salt Lake City | Utah | http://www.enerbank.com | West | 1 | Consumer Lending Specialization |
 | AMG National Trust Bank | Boulder | Colorado | http://amgnational.com | Western | 6 | Commercial Lending Specialization |
 | 1st Bank Yuma | Yuma | Arizona | http://www.1stbankyuma.com | Western | 4 | Commercial Lending Specialization |
 | Community Bank of Broward | Dania Beach | Florida | http://www.cbob.com | Southeast | 10 | Commercial Lending Specialization |
 | United Community Bank of West Kentucky, Inc. | Morganfield | Kentucky | www.ucbwest.com | Southeast | 4 | All Other Specialization  \< 1 Billion |
-| Stifel Bank and Trust | Saint Louis | Missouri | http://www.stifelbank.com | West | 2 | All Other Specialization  > 1 Billion |
+| Stifel Bank and Trust | Saint Louis | Missouri | http://www.stifelbank.com | West | 2 | All Other Specialization  \> 1 Billion |
 | Town & Country Bank | Las Vegas | Nevada | www.tcbanknv.com | West | 5 | Commercial Lending Specialization |
 | Citizens National Bank | Windsor | Virginia | http://www.cnbva.com | Southeast | 1 | Commercial Lending Specialization |
 | Farmers Bank | Ault | Colorado | www.farmersbank-weld.com | Western | 2 | Agricultural  Specialization |
@@ -5923,7 +5923,7 @@
 | United Bank & Trust National Association | Marshalltown | Iowa | http://www.ubtna.com | Western | 2 | Commercial Lending Specialization |
 | Community National Bank | Monett | Missouri | http://cnbbanking.com | West | 3 | Commercial Lending Specialization |
 | Bank of Lincoln County | Fayetteville | Tennessee | http://www.bolconline.com | Southeast | 3 | Commercial Lending Specialization |
-| Optum Bank, Inc. | Salt Lake City | Utah | http://optumbank.com | West | 1 | All Other Specialization  > 1 Billion |
+| Optum Bank, Inc. | Salt Lake City | Utah | http://optumbank.com | West | 1 | All Other Specialization  \> 1 Billion |
 | Horizon Community Bank | Lake Havasu City | Arizona | www.horizoncommunitybank.com | Western | 4 | Commercial Lending Specialization |
 | Worthington National Bank | Arlington | Texas | http://www.worthingtonbank.com | West | 3 | Commercial Lending Specialization |
 | FORCHT BANK, NATIONAL ASSOCIATION | Lexington | Kentucky | www.forchtbank.com | Southeast | 30 | All Other Specialization  \< 1 Billion |
@@ -5939,7 +5939,7 @@
 | Community National Bank of the Lakeway Area | Morristown | Tennessee | www.cnbla.com | Southeast | 3 | Commercial Lending Specialization |
 | United American Bank | San Mateo | California | http://www.unitedamericanbank.com | Western | 3 | Commercial Lending Specialization |
 | Medallion Bank | Salt Lake City | Utah | www.medallionbank.com | West | 1 | Commercial Lending Specialization |
-| Charles Schwab Bank | Reno | Nevada | www.schwabbank.com | West | 12 | All Other Specialization  > 1 Billion |
+| Charles Schwab Bank | Reno | Nevada | www.schwabbank.com | West | 12 | All Other Specialization  \> 1 Billion |
 | Sound Community Bank | Seattle | Washington | http://www.soundcb.com | West | 5 | Commercial Lending Specialization |
 | Prairie Mountain Bank | Great Falls | Montana | www.prairiemountainbank.com | West | 2 | Commercial Lending Specialization |
 | Pacific City Bank | Los Angeles | California | http://www.paccitybank.com | Western | 9 | Commercial Lending Specialization |
@@ -6091,7 +6091,7 @@
 | Legacy State Bank | Loganville | Georgia | http://www.legacystatebank.com | Southeast | 1 | Commercial Lending Specialization |
 | Superior Bank | Hazelwood | Missouri | http://mysuperiorbank.com | West | 1 | Commercial Lending Specialization |
 | NewDominion Bank | Charlotte | North Carolina | http://www.newdominionbank.com | Southeast | 3 | Commercial Lending Specialization |
-| HSBC Bank USA, National Association | Mc Lean | Virginia | www.banking.us.hsbc.com | Southeast | 241 | All Other Specialization  > 1 Billion |
+| HSBC Bank USA, National Association | Mc Lean | Virginia | www.banking.us.hsbc.com | Southeast | 241 | All Other Specialization  \> 1 Billion |
 | VISIONBank | Fargo | North Dakota | http://www.visionbanks.com | West | 2 | Commercial Lending Specialization |
 | SouthernTrust Bank | Goreville | Illinois | www.southerntrustbank.com | Central | 2 | All Other Specialization  \< 1 Billion |
 | First Madison Bank & Trust | Colbert | Georgia | http://firstmadisonbank.com | Southeast | 3 | Commercial Lending Specialization |
@@ -6454,7 +6454,7 @@
 | The Westchester Bank | Yonkers | New York | WWW.THEWESTCHESTERBANK.COM | Northeast | 3 | Commercial Lending Specialization |
 | Metro Bank | Douglasville | Georgia | www.metrobankga.com | Southeast | 3 | Commercial Lending Specialization |
 | Gold Coast Bank | Islandia | New York | goldcoastbankny.com | Northeast | 5 | Commercial Lending Specialization |
-| Scottrade Bank | Saint Louis | Missouri | www.scottrade.com | West | 1 | All Other Specialization  > 1 Billion |
+| Scottrade Bank | Saint Louis | Missouri | www.scottrade.com | West | 1 | All Other Specialization  \> 1 Billion |
 | NOA Bank | Duluth | Georgia | http://www.noabank.com | Southeast | 3 | Commercial Lending Specialization |
 | Community Capital Bank of Virginia | Christiansburg | Virginia | http://www.vacommunitycapital.org | Southeast | 2 | Commercial Lending Specialization |
 | Great State Bank | Wilkesboro | North Carolina | http://www.greatstatebank.com | Southeast | 2 | Commercial Lending Specialization |
@@ -6605,7 +6605,7 @@
 | Granite Savings Bank | Rockport | Massachusetts | http://www.granitesavingsbank.com | Northeast | 1 | All Other Specialization  \< 1 Billion |
 | Spencer Savings Bank | Spencer | Massachusetts | www.SpencerBankonline.com | Northeast | 6 | Commercial Lending Specialization |
 | Hampden Bank | Springfield | Massachusetts | www.hampdenbank.com | Northeast | 10 | Commercial Lending Specialization |
-| UniBank for Savings | Whitinsville | Massachusetts | www.unibank.com | Northeast | 11 | All Other Specialization  > 1 Billion |
+| UniBank for Savings | Whitinsville | Massachusetts | www.unibank.com | Northeast | 11 | All Other Specialization  \> 1 Billion |
 | The Savings Bank | Wakefield | Massachusetts | www.tsbawake24.com | Northeast | 9 | Commercial Lending Specialization |
 | Webster Five Cents Savings Bank | Webster | Massachusetts | www.web5.com | Northeast | 7 | Commercial Lending Specialization |
 | Westfield Bank | Westfield | Massachusetts | http://www.westfieldbank.com | Northeast | 13 | Commercial Lending Specialization |
